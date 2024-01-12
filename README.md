@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShermanL98
 - 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning Big Data Analytics
+- 🌱 I’m currently learning React Nodejs
 - 💞️ I’m looking to collaborate on Big Data Projects
 - 📫 How to reach me text 757-604-3811
 
