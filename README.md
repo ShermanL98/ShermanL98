@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Machine Learning
 - 🌱 I’m currently learning React Nodejs
 - 💞️ I’m looking to collaborate on Big Data Projects
-- 📫 How to reach me email-xswipex@gmail.com
+- 📫 How to reach me at my email xswipex@gmail.com
 
 <!---
 ShermanL98/ShermanL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
